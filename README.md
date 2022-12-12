@@ -3,7 +3,7 @@ Per aggiornare il firmware del cronometro sono necessari i seguenti elementi:
 
     • un cavo mini-USB.
     • un PC con sistema operativo Windows XP o superiore.
-    • il programma di aggiornamento “DigiUpdater.exe” o superiori.
+    • il programma di aggiornamento “DigiUpdater.exe”.
     • il file “AVE-S-XvX.hex”, dove “XvX” indica la versione dell'aggiornamento.
     
 Collegate lo strumento al PC tramite il cavo mini-USB.
